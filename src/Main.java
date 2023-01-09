@@ -10,6 +10,10 @@ public class Main {
         System.out.println(Slava.getPosition());
         Slava.work();
         System.out.println(Slava.getPosition());
+        Slava.work();
+        System.out.println(Slava.getPosition());
+        Slava.work();
+        System.out.println(Slava.getPosition());
 
     }
 }
